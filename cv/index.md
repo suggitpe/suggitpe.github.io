@@ -1,6 +1,5 @@
 ---
 title: Curriculum Vitae - Pete Suggitt
-Description; Pete Suggitt experience and skills
 layout: default
 ---
 

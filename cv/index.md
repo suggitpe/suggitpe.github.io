@@ -2,6 +2,10 @@
 title: Curriculum Vitae - Pete Suggitt
 layout: default
 ---
+## Peter Suggitt
+
+* Date of Birth: 10th December 1973
+* Residence: UK
 
 ## Summary
 Peter offers over 15 years of experience within Capital Markets software development.  Fusing a strong business domain knowledge and excellent technical aptitude, he brings a unique set of skills to the development teams he works with.  Peter operates across a number of disciplines: Architecture; Agile coaching; Software Development coaching; leading teams/departments; building outsourced teams.  In his career, he has actively sought out new challenges to deepen and broaden his skills and experience.
@@ -23,8 +27,17 @@ While Peter dedicates a significant proportion of his time working across the de
 
 ### UBS Investment Bank (2004 - present)
 
-#### Director: Securities Operations IT (2012 - present)
-- Global Head of Development:
+#### Executive Director: Application Delivery CTO (2016 - present)
+ - Defining the Software Engineering strategy for Application Delivery using Continuous Delivery techniques
+ - Working with vendors and leaders to bring the right toolchain to support effective and efficient software delivery
+
+#### Executive Director: Global Operations & HR IT (2014 - 2016)
+ - Global Head of Software Engineering
+ - Coaching technology leaders on effective software engineering techniques, standards and metrics
+ - Building communities of technical leads focused on broader standardisation of engineering methods, tooling and approaches
+
+#### Director: Securities Operations IT (2012 - 2014)
+- Global Head of Development 
 - Driving core development practices into the function, building an environment valuing technical excellence and quality.
 - Reinvigorating/rebuilding the development process into an effective Agile development function.
 - Finding and attracting core talent into the organisation.
@@ -36,12 +49,12 @@ While Peter dedicates a significant proportion of his time working across the de
 - Driving the evaluation/adoption of new techniques/approaches/languages to support effective delivery.
 - Hands on development: when time allows I take time to pair program with the teams.
 - Interim Head of Development for FXMM Operations IT:
-- Finding and recruiting a permanent Head of Development
-- Coaching FXMM development teams on software development approaches
+    - Finding and recruiting a permanent Head of Development
+    - Coaching FXMM development teams on software development approaches
+    - Guiding FXMM management team on software development and scaled agile development practices
 - Interviewing for and appraising development teams
 - Guiding teams through development on in-house technical frameworks
 - Forging cross Operations development and test standards and principles
-- Guiding FXMM management team on software development and scaled agile development practices
 
 #### Director: Group Finance IT / CTO (2011 - 2012)
 - Architect, Agile Coach, Software Engineering Coach:

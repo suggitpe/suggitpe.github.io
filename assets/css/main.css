@@ -73,6 +73,9 @@ body {
     width: 70%;
     font-family:'OpenSansRegular';
 }
+ul{
+    font-family:'OpenSansLight';
+}
 nav ul, footer ul {
     padding: 0px;
     list-style: none;

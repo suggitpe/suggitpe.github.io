@@ -73,7 +73,7 @@ body {
     width: 70%;
     font-family:'OpenSansRegular';
 }
-ul{
+li{
     font-family:'OpenSansLight';
 }
 nav ul, footer ul {

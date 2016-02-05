@@ -2,7 +2,6 @@
 title: Curriculum Vitae - Pete Suggitt
 layout: default
 ---
-## Peter Suggitt
 
 * Date of Birth: 10th December 1973
 * Residence: UK

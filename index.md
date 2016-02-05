@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Pete Suggitt on github.io
+title: Pete Suggitt
 ---
-
-## Pete Suggitt
 
 This is where I am posting stuff.

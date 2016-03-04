@@ -1,6 +1,6 @@
 ---
 title: Pizza Dough
-layout: recipe
+layout: default
 ---
 
 ## The basics

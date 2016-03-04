@@ -1,6 +1,6 @@
 ---
 title: Recipes
-layout: recipe
+layout: default
 ---
 
 These are a few recipes that I love cooking:

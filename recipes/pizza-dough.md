@@ -14,21 +14,22 @@ This version of the dough is done trying to make as little mess as possible ... 
 * 350ml warm water
 * 1 1/2 tablespoons dried active yeast
 * 1 tablespoon sugar (prefer brown)
+* Chilli flakes
 * Salt
 * Pepper
-* Rosemary chopped up finely
+* Sprig Rosemary chopped up finely
 * A few decent glugs of Virgin Olive Oil
 
 ## Utensils
 * Food mixer with a dough hook is best
     * Or manually kneed the dough and bust those 'bingo wings'
-* Big mixing bowl ... use the one from the Food mixer if you can
+* Big mixing bowl ... use the one from the food mixer if you are using one
 * Pizza Stone or Tray for the oven
     * I use the non stick pizza trays from Lakeland
 
 ## How to make the dough
 1. Get a big mixing bowl and drop in the flour and semolina
-1. Add salt and pepper (plus chili flakes if you like it spicy)
+1. Add salt and pepper (plus chilli flakes if you like it spicy)
 1. Add the rosemary and mix it all up
 1. Fill up a mixing jug with the warm water and mix in the sugar
 1. Mix the yeast with the water and stir in.

@@ -42,3 +42,5 @@ This recipe is my family's favourite of all the recipes that I make.  I make a h
 1. Now add the bottle of wine and let this simmer with no lid on the pot
 1. As soon as this has reduced (expect an hour or so) it should be ready to serve with pasta and topped with cheddar cheese
 1. Remove the bay leaves as they can make it taste too strong
+
+Let this cool off overnight with the lid on, then bag it up and freeeze: remember to write on the bag what it is...

@@ -48,7 +48,7 @@ On a work surface (I have a big wooden chopping board) spread a load of semolina
 Now add on the pasatta and toppings etc.  Try the following:
 
  - Dates and Bacon: fast fry the bacon and add the diced dates later
- - Mushroon, chorizo and chilli
+ - Mushroom, chorizo and chilli
  - Mix Mozzarella and Cheddar
  - Sprinkle mixed herbs over the top before you bake
 

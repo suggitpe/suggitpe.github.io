@@ -5,6 +5,7 @@ layout: default
 
 ## <a name="dice_onion"></a>Dicing an onion
 There is a great way to finely dice an onion that I learned in a professional kitchen.  It goes like this:
+
 1. Cut the onion in half starting at the root (brush away the grit before you start)
 1. Peal the onion skin back to the fresh layer
 1. For each side of the onion

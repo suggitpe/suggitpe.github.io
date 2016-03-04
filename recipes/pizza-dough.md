@@ -44,6 +44,7 @@ This version of the dough is done trying to make as little mess as possible ... 
 On a work surface (I have a big wooden chopping board) spread a load of semolina and flour.  You will need quite a bit to stop it sticking.  Flatten a ball of dough and then use a rolling pin to thin the ball into a pizza base shape.  I have yet to achieve the dizzying heights of spinning the dough in the air.
 
 Now add on the pasatta and toppings etc.  Try the following:
+
  - Dates and Bacon: fast fry the bacon and add the diced dates later
  - Mushroon, chorizzo and chilli
  - Mix Mozzarella and Cheddar

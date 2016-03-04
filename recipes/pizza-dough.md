@@ -26,9 +26,9 @@ This version of the dough is done trying to make as little mess as possible ... 
 * Pizza Stone or Tray for the oven
     * I use the non stick pizza trays from Lakeland
 
-## How to make it
+## How to make the dough
 1. Get a big mixing bowl and drop in the flour and semolina
-1. Add salt and pepper
+1. Add salt and pepper (plus chili flakes if you like it spicy)
 1. Add the rosemary and mix it all up
 1. Fill up a mixing jug with the warm water and mix in the sugar
 1. Mix the yeast with the water and stir in.
@@ -36,5 +36,18 @@ This version of the dough is done trying to make as little mess as possible ... 
 1. Pour the Olive Oil into the jug with the yeast and give it a good stir
 1. Make a dip in the flour mix and pour in the yeast/water mix
 1. Get a fork and mix it all up ... this is the messy bit
-1. Kneed the dough
-    1.
+1. Kneed the dough in either the food mixer or manually
+1. Once the dough is silky put it in a freezer bag and pop it in the fridge knocking it back once in a while
+1. Keep it in the freezer bag as its a sticky dough
+
+## Making the pizza base
+On a work surface (I have a big wooden chopping board) spread a load of semolina and flour.  You will need quite a bit to stop it sticking.  Flatten a ball of dough and then use a rolling pin to thin the ball into a pizza base shape.  I have yet to achieve the dizzying heights of spinning the dough in the air.
+
+Now add on the pasatta and toppings etc.  Try the following:
+ - Dates and Bacon: fast fry the bacon and add the diced dates later
+ - Mushroon, chorizzo and chilli
+ - Mix Mozzarella and Cheddar
+ - Sprinkle mixed herbs over the top before you bake
+
+## Links
+* Read [Paul Hollywood's](http://paulhollywood.com/baking-know-how/techniques/) tips on making bread

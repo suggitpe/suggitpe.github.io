@@ -17,7 +17,7 @@ This version of the dough is done trying to make as little mess as possible ... 
 * Chilli flakes
 * Salt
 * Pepper
-* Sprig Rosemary chopped up finely
+* A sprig of rosemary chopped up finely
 * A few decent glugs of Virgin Olive Oil
 
 ## Utensils

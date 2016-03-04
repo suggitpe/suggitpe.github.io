@@ -36,7 +36,7 @@ While Peter dedicates a significant proportion of his time working across the de
  - Building communities of technical leads focused on broader standardisation of engineering methods, tooling and approaches
 
 #### Director: Securities Operations IT (2012 - 2014)
-- Global Head of Development 
+- Global Head of Development
 - Driving core development practices into the function, building an environment valuing technical excellence and quality.
 - Reinvigorating/rebuilding the development process into an effective Agile development function.
 - Finding and attracting core talent into the organisation.
@@ -64,7 +64,7 @@ While Peter dedicates a significant proportion of his time working across the de
 - Coached teams in the adoption of test driven software engineering techniques.
 - Wider application reviews across the Central Technology Office remit.
 
-#### Director: OTC Derivatives Operations IT (2004 - 2011)
+#### Associate Director / Director: OTC Derivatives Operations IT (2004 - 2011)
 - Stream Architect:
 - Providing governance over the technical and functional architecture of 30+ applications.
 - Supporting and contributing to the wider Post Trade architecture across UBS.

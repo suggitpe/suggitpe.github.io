@@ -3,7 +3,6 @@ title: Recipes
 layout: default
 ---
 
-##
 These are a few recipes that I love cooking:
 
 * [Pizza Dough](pizza-dough.html)

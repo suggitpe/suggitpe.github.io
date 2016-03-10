@@ -1,4 +1,9 @@
 name: Pete Suggitt
-markdown: kramdown
 
 url: http://suggs.org.uk
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    input: GFM
+    toc_levels: 1..3

@@ -1,6 +1,6 @@
 ---
 title: Marinaded Pork Loin
-layout: default
+layout: recipe
 ---
 
 * auto-gen TOC:

@@ -1,4 +1,4 @@
 ---
 title: Chili con Carne
-layout: default
+layout: recipe
 ---

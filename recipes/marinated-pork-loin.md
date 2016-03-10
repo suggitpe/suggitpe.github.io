@@ -24,7 +24,7 @@ Then add:
 1. Black Pepper
 1. Chilli Flakes
 1. A good dollup of honey
-1. Some wholegrain mustard
+1. English mustard powder (1/4 teaspoon)
 
 ## To prepare the loin
 Trim as much of the fat off the meat as you can without being silly.  On the top of the loin you will see the silverskin.  The best way to do this is to push a sharp knife under the silverskin and with the blade aimed up a little bit slice down the length.  You will lose a small amount of meat but, hey, that's life.  Once you have trimmed the meat, score the meat on both sides so the marinade can soak in.  Put the meat into the marinade and squish it in so its all covered.  Now cover up the jug/bowl and pop in the fridge overnight.

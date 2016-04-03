@@ -3,6 +3,11 @@ title: Tips and Tricks
 layout: default
 ---
 
+* auto-gen TOC:
+{:toc}
+
+---
+
 ## <a name="dice_onion"></a>Dicing an onion
 There is a great way to finely dice an onion that I learned in a professional kitchen.  It goes like this:
 

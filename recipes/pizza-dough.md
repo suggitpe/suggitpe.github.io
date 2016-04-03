@@ -3,6 +3,11 @@ title: Pizza Dough
 layout: default
 ---
 
+* auto-gen TOC:
+{:toc}
+
+---
+
 ## The basics
 Something for the kids!!! This pizza dough recipe is super simple to make, especially if you have a food mixer. This recipe is best made the day before you want to use it.
 

@@ -3,6 +3,11 @@ title: Toad in the Hole
 layout: default
 ---
 
+* auto-gen TOC:
+{:toc}
+
+---
+
 ## The basics
 A great meal for an autumnal evening.  Best served with a seriously Porty onion gravy and garden peas!  Rather unhelpfully I never use any measures for the Yorkshire Pudding batter as I tend to do it by feel.
 

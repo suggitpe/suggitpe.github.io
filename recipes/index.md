@@ -10,3 +10,4 @@ These are a few recipes that I love cooking:
 * [Chili Con Carne](chill-con-carne.html)
 * [Chinese marinated pork loin](marinated-pork-loin.html)
 * [Toad in the Hole](toad-in-the-hole.html)
+* [Special Fried Rice](special-fried-rice.html)

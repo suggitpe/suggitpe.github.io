@@ -27,8 +27,9 @@ While Peter dedicates a significant proportion of his time working across the de
 ### UBS Investment Bank (2004 - present)
 
 #### Executive Director: Application Delivery CTO (2016 - present)
- - Defining the Software Engineering strategy for Application Delivery using Continuous Delivery techniques
- - Working with vendors and leaders to bring the right toolchain to support effective and efficient software delivery
+ - Defining the Software Engineering strategy for Global Application Delivery using Continuous Delivery practices and techniques
+ - Forming a strategy for the successful implementation of virtualisation and containerisation technologies to speed up delivery of solutions
+ - Working with vendors and leaders to bring the right tool-chain to support effective and efficient software delivery across the firm
 
 #### Executive Director: Global Operations & HR IT (2014 - 2016)
  - Global Head of Software Engineering

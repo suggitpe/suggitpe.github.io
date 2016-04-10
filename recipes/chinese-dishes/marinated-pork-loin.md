@@ -19,10 +19,10 @@ In a decent sized measuring jug add the following.  You want to get a sticky sau
   * 2 Tablespoon of dark soy sauce
   * 1/2 Tablespoon of Rice Wine
   * 1 Teaspoon of Sesame Oil
-  * Pepper
-  * Pinch of Chinese 5 spice
   * 3 Tablespoons of soft brown sugar
   * 2 Cloves of garlic chopped
+  * Pepper
+  * Pinch of Chinese 5 spice
   * A few drops of Tabasco Sauce
 
 ## To prepare the loin

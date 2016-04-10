@@ -5,9 +5,9 @@ layout: default
 
 These are a few recipes that I love cooking:
 
-* [Pizza Dough](pizza-dough.html)
-* [Spaghetti Bolognese](spaghetti-bolognese.html)
-* [Chili Con Carne](chill-con-carne.html)
-* [Chinese marinated pork loin](marinated-pork-loin.html)
-* [Toad in the Hole](toad-in-the-hole.html)
-* [Special Fried Rice](special-fried-rice.html)
+* [Pizza Dough](bread/pizza-dough.html)
+* [Spaghetti Bolognese](traditional-dishes/spaghetti-bolognese.html)
+* [Chili Con Carne](traditional-dishes/chill-con-carne.html)
+* [Chinese marinated pork loin](chinese-dishes/marinated-pork-loin.html)
+* [Toad in the Hole](traditional-dishes/toad-in-the-hole.html)
+* [Special Fried Rice](chinese-dishes/special-fried-rice.html)

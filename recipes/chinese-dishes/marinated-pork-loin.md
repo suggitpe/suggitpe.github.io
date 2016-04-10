@@ -14,16 +14,16 @@ Each loin will cover two people generously so factor in that you might need a fe
 ## The marinade (Char Sui)
 In a decent sized measuring jug add the following.  You want to get a sticky sauce consistency so add more honey/hoisin if its too runny:
 
-1. 1 Tablespoon of Hoisin Sauce
-1. 1/2 Tablespoon of honey
-1. 2 Tablespoon of dark soy sauce
-1. 1/2 Tablespoon of Rice Wine
-1. 1 Teaspoon of Sesame Oil
-1. Pepper
-1. Pinch of Chinese 5 spice
-1. 3 Tablespoons of soft brown sugar
-1. 2 Cloves of garlic chopped
-1. A few drops of Tabasco Sauce
+  * 1 Tablespoon of Hoisin Sauce
+  * 1/2 Tablespoon of honey
+  * 2 Tablespoon of dark soy sauce
+  * 1/2 Tablespoon of Rice Wine
+  * 1 Teaspoon of Sesame Oil
+  * Pepper
+  * Pinch of Chinese 5 spice
+  * 3 Tablespoons of soft brown sugar
+  * 2 Cloves of garlic chopped
+  * A few drops of Tabasco Sauce
 
 ## To prepare the loin
 Trim as much of the fat off the meat as you can without being silly.  On the top of the loin you will see the silverskin.  The best way to do this is to push a sharp knife under the silverskin and with the blade aimed up a little bit slice down the length.  You will lose a small amount of meat but, hey, that's life.  Once you have trimmed the meat, score the meat on both sides so the marinade can soak in.  Cut the loin into two pieces so its easier to cook.  Put the whole lot into a freezer bag so you can move the meat and marinade around. If you want to spread the food out, put in two bags and freeze one of them.

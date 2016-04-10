@@ -14,3 +14,4 @@ These are a few recipes that I love cooking:
 * Chinese
   * [Chinese marinated pork loin](chinese-dishes/marinated-pork-loin.html)
   * [Special Fried Rice](chinese-dishes/special-fried-rice.html)
+  * [Pineapple Chicken](chinese-dishes/pineapple-chicken.html)

@@ -2,6 +2,8 @@ name: Pete Suggitt
 
 url: http://suggs.org.uk
 
+ghe: https://github.com/suggitpe
+
 highlighter: rouge
 markdown: kramdown
 kramdown:

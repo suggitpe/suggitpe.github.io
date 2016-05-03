@@ -93,7 +93,6 @@ While Peter dedicates a significant proportion of his time working across the de
 ## Education
 - University of Liverpool: MSc Information Technology (Distinction).
 - University of Portsmouth: BA(Hons) Business Studies (2:1).
-- University of Portsmouth: HND Business and Finance (Distinction).
 
 ## Career Context
 - Languages: Java, C++, Groovy, Scala, Javascript, R, Python

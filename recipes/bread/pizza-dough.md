@@ -13,6 +13,8 @@ Something for the kids!!! This pizza dough recipe is super simple to make, espec
 
 This version of the dough is done trying to make as little mess as possible ... I'm lazy!
 
+> If you find the dough does not rise, this is most likely caused by dead yeast.  Replace the yeast and start again.
+
 ## Ingredients
 * 100g Semolina
 * 500g Strong Bread Flour

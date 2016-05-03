@@ -8,8 +8,6 @@ layout: default
 
 ---
 
-## The basics
-
 I made this one from seeing a great [you tube](https://www.youtube.com/watch?v=f_ZRhqkWHfU) session from [The Dumpling Sisters](https://thedumplingsisters.com/) on the basics of fried rice.  Our local Chinese take-away shut down a while ago and I have been hankering for good Chinese food since then.  This recipe takes a number of shortcuts to make it simpler to make.  It usually serves three people, or two if you have The Hunger!
 
 > Key principle with a fried rice: you need three meats and three vegetables to make it work.

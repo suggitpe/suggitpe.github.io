@@ -24,6 +24,7 @@ This recipe is my family's favourite of all the recipes that I make.  I make a h
  - a whole celery chopped finely
  - baby sweetcorn chopped
  - a bottle of red wine (cheap plonk is fine)
+ - a good dash of Worcestershire Sauce
 
 ## Utensils
  - Get a great big cooking pot (the biggest you can find)

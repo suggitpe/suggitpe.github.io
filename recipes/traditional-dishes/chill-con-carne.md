@@ -31,6 +31,7 @@ For this dish, I tend to make a huge batch of it and freeze it in portions for q
 
 ## The cook
 For me its all about the preparation.  I tend to get two pasta bowls and into them put the following:
+
   1. Chop the onions and the garlic (I always cook these together)
   1. Chop the red peppers and the chili; then on top of them add the chili powder, paprika and cumin
   1. Brown off the mince and drain away all the fatty liquid (we want to keep the dish as lean as possible)

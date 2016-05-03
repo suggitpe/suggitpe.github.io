@@ -30,11 +30,15 @@ While Peter dedicates a significant proportion of his time working across the de
  - Defining the Software Engineering strategy for Global Application Delivery using Continuous Delivery practices and techniques
  - Forming a strategy for the successful implementation of virtualisation and containerisation technologies to speed up delivery of solutions
  - Working with vendors and leaders to bring the right tool-chain to support effective and efficient software delivery across the firm
+ - Managing the resolution of a number of cross Application Delivery projects and task forces
 
 #### Executive Director: Global Operations & HR IT (2014 - 2016)
- - Global Head of Software Engineering
+ - Global Head of Software Engineering across Group Operations
  - Coaching technology leaders on effective software engineering techniques, standards and metrics
  - Building communities of technical leads focused on broader standardisation of engineering methods, tooling and approaches
+ - Leading the Group Operations Technical Leads and Solution Architects virtual team
+ - Working across Group Operations to coach teams in Lean techniques such as Value Stream Mapping and Queuing Theory to help them self-optimise Delivery processes.
+ - Collaborating across Application Delivery to form the basis of a common SDLC and tool chain
 
 #### Director: Securities Operations IT (2012 - 2014)
 - Global Head of Development

@@ -32,8 +32,8 @@ While Peter dedicates a significant proportion of his time working across the de
  - Working with vendors and leaders to bring the right tool-chain to support effective and efficient software delivery across the firm
  - Managing the resolution of a number of cross Application Delivery projects and task forces
 
-#### Executive Director: Global Operations & HR IT (2014 - 2016)
- - Global Head of Software Engineering across Group Operations
+#### Executive Director: Group Operations & HR IT (2014 - 2016)
+ - Global Head of Software Engineering across Group Operations and HR IT
  - Coaching technology leaders on effective software engineering techniques, standards and metrics
  - Building communities of technical leads focused on broader standardisation of engineering methods, tooling and approaches
  - Leading the Group Operations Technical Leads and Solution Architects virtual team

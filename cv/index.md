@@ -7,41 +7,41 @@ layout: default
 * Residence: UK
 
 ## Summary
-Peter offers over 15 years of experience within Capital Markets software development.  Fusing a strong business domain knowledge and excellent technical aptitude, he brings a unique set of skills to the development teams he works with.  Peter operates across a number of disciplines: Architecture; Agile coaching; Software Development coaching; leading teams/departments; building outsourced teams.  In his career, he has actively sought out new challenges to deepen and broaden his skills and experience.
+Peter is recognised as a passionate technologist fusing core Capital Markets knowledge with progressive software engineering practices and techniques.  Peter's core focus is mixing a Business Value centric engineering culture with hands on project work enabling teams to succeed.  Through a continued focus on the emergent technologies in the market, Peter combines theory and practice to build teams employing efficient delivery of customer focused solutions.  Peter is most effective when working directly with delivery programs, using 15 years of engineering expertise to grow teams alongside program delivery.
 
-Peter is a passionate technologist who is experienced in many languages, enterprise techniques/frameworks and approaches.  He makes a point of writing code every day, both inside teams and, externally, working on pet projects and evaluation of new technologies/languages.  As a hands-on figurehead technologist in UBS, he dedicates a large proportion of his time to training/coaching teams and individuals to deliver software in the most effective manner.  Peter's current focus is based around agile test driven development techniques, approaches and designs at an enterprise scale and how to curate a development function around them.
-
-While Peter dedicates a significant proportion of his time working across the development teams, he is equally effective with stakeholders and senior management and has regular interactions and input into the wider programme governance and structure.  Peter's current role as Head of Development allows him to demonstrate his effectiveness in the software delivery lifecycle; from requirements capture through to delivery.
 
 ## Core Values
-- Customer satisfaction above all else;
+- Customer satisfaction through delivery;
 - Technical excellence;
 - Simplicity;
 - Transparency and feedback to support continuous learning;
 - Challenging boundaries where necessary.
 
-#### Github account: [http://github.com/suggitpe](http://github.com/suggitpe)
+##### Github account: [http://github.com/suggitpe](http://github.com/suggitpe)
 
 ## Employment History
 
 ### UBS Investment Bank (2004 - present)
 
 #### Executive Director: Application Delivery CTO (2016 - present)
- - Defining the Software Engineering strategy for Global Application Delivery using Continuous Delivery practices and techniques
- - Forming a strategy for the successful implementation of virtualisation and containerisation technologies to speed up delivery of solutions
- - Working with vendors and leaders to bring the right tool-chain to support effective and efficient software delivery across the firm
- - Managing the resolution of a number of cross Application Delivery projects and task forces
+Software Delivery Strategy Head:
+ - Building a group wide culture of Software Engineering excellence, where Business Value and Customer Focus become the key measures for the broader delivery process for IT
+ - Defining a Software Engineering strategy using Continuous Delivery practices and techniques, incorporating the use of virtualisation and containerisation technologies
+ - Working with third party vendors and group wide stakeholders to bring a common tool-chain in support of the Software Engineering Strategy
+ - Managing the resolution of a number of key group wide operational risk deficiencies across IT, Risk, HR and the Lines of Business
 
-#### Executive Director: Group Operations & HR IT (2014 - 2016)
- - Global Head of Software Engineering across Group Operations and HR IT
+#### Executive Director: Group Operations IT (2014 - 2016)
+Global Head of Software Engineering across Group Operations IT:
+ - Building a culture of Software Engineering excellence across Group Operations IT
+ - As a Software Delivery specialist, focused time in failing projects and significant production incidents, steering them back to health
+ - Working within departments on projects to coach teams in Lean techniques such as Value Stream Mapping and Queuing Theory to help them self-optimise Delivery processes
  - Coaching technology leaders on effective software engineering techniques, standards and metrics
  - Building communities of technical leads focused on broader standardisation of engineering methods, tooling and approaches
  - Leading the Group Operations Technical Leads and Solution Architects virtual team
- - Working across Group Operations to coach teams in Lean techniques such as Value Stream Mapping and Queuing Theory to help them self-optimise Delivery processes.
  - Collaborating across Application Delivery to form the basis of a common SDLC and tool chain
 
 #### Director: Securities Operations IT (2012 - 2014)
-- Global Head of Development
+Global Head of Development
 - Driving core development practices into the function, building an environment valuing technical excellence and quality.
 - Reinvigorating/rebuilding the development process into an effective Agile development function.
 - Finding and attracting core talent into the organisation.
@@ -61,7 +61,7 @@ While Peter dedicates a significant proportion of his time working across the de
 - Forging cross Operations development and test standards and principles
 
 #### Director: Group Finance IT / CTO (2011 - 2012)
-- Architect, Agile Coach, Software Engineering Coach:
+Architect, Agile Coach, Software Engineering Coach:
 - Built out an agile adoption strategy and transition plan for the global development function.
 - Agile Training and Coaching across the London and US teams.
 - Continuous Delivery pipeline build out across a number of technologies.
@@ -70,7 +70,7 @@ While Peter dedicates a significant proportion of his time working across the de
 - Wider application reviews across the Central Technology Office remit.
 
 #### Associate Director / Director: OTC Derivatives Operations IT (2004 - 2011)
-- Stream Architect:
+Stream Architect:
 - Providing governance over the technical and functional architecture of 30+ applications.
 - Supporting and contributing to the wider Post Trade architecture across UBS.
 - Definition of functional/technical architecture for global and market initiatives.

@@ -25,6 +25,7 @@ Peter is recognised as a passionate technologist fusing core Capital Markets kno
 
 #### Executive Director: Application Delivery CTO (2016 - present)
 Software Delivery Strategy Head:
+
  - Building a group wide culture of Software Engineering excellence, where Business Value and Customer Focus become the key measures for the broader delivery process for IT
  - Defining a Software Engineering strategy using Continuous Delivery practices and techniques, incorporating the use of virtualisation and containerisation technologies
  - Working with third party vendors and group wide stakeholders to bring a common tool-chain in support of the Software Engineering Strategy
@@ -32,6 +33,7 @@ Software Delivery Strategy Head:
 
 #### Executive Director: Group Operations IT (2014 - 2016)
 Global Head of Software Engineering across Group Operations IT:
+
  - Building a culture of Software Engineering excellence across Group Operations IT
  - As a Software Delivery specialist, focused time in failing projects and significant production incidents, steering them back to health
  - Working within departments on projects to coach teams in Lean techniques such as Value Stream Mapping and Queuing Theory to help them self-optimise Delivery processes
@@ -41,7 +43,8 @@ Global Head of Software Engineering across Group Operations IT:
  - Collaborating across Application Delivery to form the basis of a common SDLC and tool chain
 
 #### Director: Securities Operations IT (2012 - 2014)
-Global Head of Development
+Global Head of Development:
+
 - Driving core development practices into the function, building an environment valuing technical excellence and quality.
 - Reinvigorating/rebuilding the development process into an effective Agile development function.
 - Finding and attracting core talent into the organisation.
@@ -62,6 +65,7 @@ Global Head of Development
 
 #### Director: Group Finance IT / CTO (2011 - 2012)
 Architect, Agile Coach, Software Engineering Coach:
+
 - Built out an agile adoption strategy and transition plan for the global development function.
 - Agile Training and Coaching across the London and US teams.
 - Continuous Delivery pipeline build out across a number of technologies.
@@ -71,6 +75,7 @@ Architect, Agile Coach, Software Engineering Coach:
 
 #### Associate Director / Director: OTC Derivatives Operations IT (2004 - 2011)
 Stream Architect:
+
 - Providing governance over the technical and functional architecture of 30+ applications.
 - Supporting and contributing to the wider Post Trade architecture across UBS.
 - Definition of functional/technical architecture for global and market initiatives.
@@ -83,9 +88,13 @@ Stream Architect:
 - Managing local and remote C++ development teams building an OTC Derivatives Clearing and Settlement processing engine.
 
 ### HBOS Treasury Services (2003 - 2004)
+Analyst/developer:
+
 - Analyst/Developer on a 3rd party front-to-back trading system, supporting OTC and Exchange Traded Derivatives.
 
 ### UBS Investment Bank (1998 - 2003)
+Analyst/developer:
+
 - Started within Operations Change Management as a Change Analyst for OTC Derivatives Operations.
 - Transitioned into IT in a Development Operations role focusing on build, test and deployment automation.
 - Moved into core development team as a C++ Developer/Business Analyst focusing on middleware integration.

@@ -7,7 +7,7 @@ layout: default
 * Residence: UK
 
 ## Summary
-Peter is recognised as a passionate technologist fusing core Capital Markets knowledge with progressive software engineering practices and techniques.  Peter's core focus is mixing a Business Value centric engineering culture with hands on project work enabling teams to succeed.  Through a continued focus on the emergent technologies in the market, Peter combines theory and practice to build teams employing efficient delivery of customer focused solutions.  Peter is most effective when working directly with delivery programs, using 15 years of engineering expertise to grow teams alongside program delivery.
+Peter is recognised as a passionate technologist fusing core Capital Markets knowledge with progressive software engineering practices and techniques.  Through a continued focus on the emergent technologies in the market, Peter combines theory and practice to build teams employing efficient delivery of customer focused solutions.  Peter is most effective when working directly with delivery programs, using 15 years of engineering expertise to grow teams alongside program delivery.  Peter's current focus is the formation of a Software Engineering strategy and culture that places Business Value and Customer Satisfaction at the core of the Software Delivery function.
 
 
 ## Core Values

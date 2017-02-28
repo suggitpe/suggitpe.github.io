@@ -70,3 +70,14 @@ hr.small{
     -o-background-size: cover;
 }
 
+footer{
+    padding: 25px 0;
+}
+
+#to-top {
+    display: none;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+

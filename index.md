@@ -14,6 +14,16 @@ title: Pete Suggitt
     </div>
 </header>
 
+<!-- about -->
+<section id="about" class="about">
+    <div class="container">
+        <div class="col-lg-12 text-center">
+            <h2>This is what Pete does</h2>
+            <p class="lead">Some pithy thoughts about software engineering</p>
+        </div>
+    </div>
+</section>
+
 
 <footer>
     <p align="center"><a href="https://github.com/suggitpe"><i class="fa fa-github fa-2x"></i></a></p>

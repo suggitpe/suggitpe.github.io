@@ -4,7 +4,7 @@ title: Pete Suggitt
 ---
 
 <header id="top" class="header">
-    <div class="text-verticle-center">
+    <div class="text-vertical-center">
         <h1 class="animated fadeInUp">Pete Suggitt</h1>
         <h3 class="animated fadeInUp">This is the Pete's home website</h3>
         <br>

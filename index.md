@@ -46,7 +46,7 @@ title: Pete Suggitt
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
-                         <div class="service-item">
+                        <div class="service-item">
                              <span class="fa-stack fa-4x">
                                  <i class="fa fa-circle fa-stack-2x"></i>
                                  <i class="fa fa-lightbulb-o fa-stack-1x text-primary"></i>
@@ -57,6 +57,19 @@ title: Pete Suggitt
                              <p>Some interesting text to tell you all about the second thing thing that I do</p>
                              <a href="#" class="btn btn-light">Learn more</a>
                          </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="service-item">
+                            <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-users fa-stack-1x text-primary"></i>
+                            </span>
+                            <h4>
+                                <strong>This is the third thing I do</strong>
+                            </h4>
+                            <p>Some interesting text to tell you all about the third thing thing that I do</p>
+                            <a href="#" class="btn btn-light">Learn more</a>
+                        </div>
                     </div>
                 </div>
             </div>

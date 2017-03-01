@@ -74,6 +74,14 @@ hr.small{
     padding: 50px 0;
 }
 
+.services {
+    padding: 50px 0;
+}
+
+.service-item {
+    margin-bottom: 30px;
+}
+
 footer{
     padding: 25px 0;
 }

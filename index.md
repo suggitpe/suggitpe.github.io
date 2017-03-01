@@ -31,6 +31,21 @@ title: Pete Suggitt
             <div class="col-lg-10 col-lg-offset-1">
                 <h2>The things I do</h2>
                 <hr class="small">
+                <div class="row annimated">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="service-item">
+                            <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-road fa-stack-1x text-primary"></i>
+                            </span>
+                            <h4>
+                                <strong>This is the first thing I do</h2>
+                            </h4>
+                            <p>Some interesting text to tell you all about the first thing thing that I do</p>
+                            <a href="#" class="btn btn-light">Learn more</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

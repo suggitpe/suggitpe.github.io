@@ -28,9 +28,12 @@ title: Pete Suggitt
 <section id="services" class="services bg-primary">
     <div class="container">
         <div class="row text-center">
-            
+            <div class="col-lg-10 col-lg-offset-1">
+                <h2>The things I do</h2>
+                <hr class="small">
+            </div>
         </div>
-    </div"
+    </div>
 </section>
 
 

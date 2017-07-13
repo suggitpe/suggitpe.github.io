@@ -12,8 +12,8 @@ Postel’s law (robustness principle) observes that in general, an implementatio
 
 If we consider the relationship between client and provider as a contract, we can see two emerging sets of expectations from each side: 
 
-1. The provider contract is the expansive set of things that a service provides to the broader set of consumers.  It will include Document Schemas, Interfaces, Conversations, Policy, etc.  They exhibit the following behaviours; closed and complete, singular and authoritative, with bounded stability and immutability.
-1. The consumer contract contains all the things that a consumer of a service expects (these can be expressed as assertable statements, or tests).  Consumer contracts exhibit the following behaviours: open and incomplete, multiple and non-authoritattive with bounded stability and immutability.
+1. The provider contract is the expansive set of things that a service provides to the broader set of consumers.  It will include Document Schemas, Interfaces, Conversations, Policy, etc.  They exhibit the following behaviours; closed and have the complete business function, with a single authoritative instance (logical) that has bounded stability and immutability.
+1. The consumer contract contains all the things that a consumer of a service expects (these can be expressed as assertable statements, or tests).  Consumer contracts exhibit the following behaviours: open and consume an incomplete set of the business function, with multiple non-authoritative instances that have bounded stability and immutability.
     
 “When a provider accepts and adopts the reasonable expectations expressed by the set of consumers, it enters into a Consumer Driven Contract” [Ian Robinson].
 

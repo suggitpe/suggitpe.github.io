@@ -1,4 +1,8 @@
-#Consumer Driven Contracts
+---
+layout: post
+title: Consumer Driven Contracts
+date: 2017-07-13
+---
 
 In a complex system of systems, communications between these systems has become a major source of debate.  Over many years we have built patterns and idioms such as transactions, protocols and internmediaries solve these problems.  Still today we overlook common design flaws such as implicit coupling through too strong a relationship between consumer and protocols, giving rise to fragility across the enterprise.
 

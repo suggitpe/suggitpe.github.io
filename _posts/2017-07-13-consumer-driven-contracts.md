@@ -4,6 +4,8 @@ title: Consumer Driven Contracts
 date: 2017-07-13
 ---
 
+# Consumer Driven Contracts
+
 In a complex system of systems, communications between these systems has become a major source of debate.  Over many years we have built patterns and idioms such as transactions, protocols and internmediaries solve these problems.  Still today we overlook common design flaws such as implicit coupling through too strong a relationship between consumer and protocols, giving rise to fragility across the enterprise.
 
 Postel’s law (robustness principle) observes that in general, an implementation must be conservative in its sending behaviour and liberal in its receiving behaviour (note: do not confuse liberal with ambiguous … see ).  Too often we find clients of a service (synchronous and asynchronous services) bound too tightly to the service output, for example if a client verifies the messages/events it receives with an XSD then any alteration (even additive alterations) will cause verification failure.  This would be an example of conservative receiving behaviour, thus implicit inter-system coupling.  Clients can adopt a more liberal receiveing behaviour through programatically asserting that the messages contain the things you need, not that the message conforms to the expansive consumer offering.

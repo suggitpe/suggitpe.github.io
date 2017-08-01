@@ -1,7 +1,7 @@
 name: Pete Suggitt
 
 url: http://suggs.org.uk
-blog-images: {{ site.url }}/blog-images
+blogimages: {{ site.url }}/blog-images
 
 ghe: https://github.com/suggitpe
 

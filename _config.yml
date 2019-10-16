@@ -1,9 +1,9 @@
-title: Pete Suggitt
+#title: Pete Suggitt
 
-url: http://suggs.org.uk
-blogimages: {{ site.url }}/blog-images
+#url: http://suggs.org.uk
+#blogimages: {{ site.url }}/blog-images
 
-ghe: https://github.com/suggitpe
+#ghe: https://github.com/suggitpe
 
 #highlighter: rouge
 #markdown: kramdown

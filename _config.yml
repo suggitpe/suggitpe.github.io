@@ -1,0 +1,45 @@
+title: "suggitpe"
+description: "Notes, projects, and passing curiosities."
+url: "https://suggitpe.github.io"
+author: "suggitpe"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Dark theme
+minima:
+  skin: dark
+  social_links:
+    - platform: github
+      user_url: "https://github.com/suggitpe"
+
+# Custom collections
+collections:
+  presentations:
+    output: true
+    permalink: /presentations/:name/
+  recipes:
+    output: true
+    permalink: /recipes/:name/
+
+# Navigation menu
+header_pages:
+  - blog.md
+  - presentations.md
+  - recipes.md
+  - about.md
+
+# Post URL format
+permalink: /blog/:year/:month/:day/:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _site

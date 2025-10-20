@@ -3,8 +3,9 @@ description: "Notes, projects, and passing curiosities."
 url: "https://suggitpe.github.io"
 author: "suggitpe"
 
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 

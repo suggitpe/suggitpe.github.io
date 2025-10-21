@@ -3,11 +3,6 @@ title: Pineapple Chicken
 layout: default
 ---
 
-* auto-gen TOC:
-{:toc}
-
----
-
 ## The basics
 This dish is ... work in progress
 

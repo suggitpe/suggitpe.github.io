@@ -1,11 +1,6 @@
 ---
 title: Chinese Marinaded Pork Loin
-layout: recipe
----
-
-* auto-gen TOC:
-{:toc}
-
+layout: default
 ---
 
 Each loin will cover two people generously so factor in that you might need a few loins if this is for a sunday roast.  To make the most of the marinade you need to soak the meat overnight before cooking (preferably two days).  This pork recipe works really well with the [Special Fried Rice](special-fried-rice.html).

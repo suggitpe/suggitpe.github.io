@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: page
 title: "Espresso Tonic"
 time: "5 minutes"
 servings: 1
@@ -13,5 +13,5 @@ servings: 1
 
 **Method**
 1. Fill a glass with ice, add tonic.
-2. Gently pour hot espresso over the back of a spoon.
-3. Express citrus peel over the top and drop it in.
+2. Slowly pour hot espresso over the back of a spoon.
+3. Add citrus peel if you’re feeling fancy.

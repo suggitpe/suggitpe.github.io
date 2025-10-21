@@ -6,4 +6,4 @@ permalink: /about/
 
 Hi, I’m **suggitpe** — I build things, break them (on purpose), and write about it.
 
-This site runs on **Jekyll** + **GitHub Pages** with the **Midnight** theme.
+This site runs on **Jekyll** + **Poole/Hyde** for a clean, dark sidebar layout.

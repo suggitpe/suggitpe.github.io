@@ -3,5 +3,6 @@ layout: post
 title: "Hello, World"
 ---
 
-First post! 🎉  
-Expect write-ups on projects, experiments, and notes.
+This is my first post on **Hyde**, running on GitHub Pages.
+
+I’ll be adding more content soon!

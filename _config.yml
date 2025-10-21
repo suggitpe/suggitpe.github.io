@@ -3,13 +3,16 @@ description: "Notes, projects, and passing curiosities."
 url: "https://suggitpe.github.io"
 author: "suggitpe"
 
+# Use the official Hyde theme from Poole
 remote_theme: poole/hyde
 
+# Plugins required for remote themes + extras
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
+# Custom content sections
 collections:
   presentations:
     output: true
@@ -18,4 +21,16 @@ collections:
     output: true
     permalink: /recipes/:name/
 
+# Blog post URLs
 permalink: /blog/:year/:month/:day/:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Don't include these in the built site
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _site

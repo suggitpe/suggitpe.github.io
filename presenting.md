@@ -4,8 +4,6 @@ title: Presenting
 permalink: /presenting/
 ---
 
-# Presenting
-
 <ul>
 {% assign talks = site.presenting | sort: "date" | reverse %}
 {% for talk in talks %}

@@ -4,8 +4,6 @@ title: Recipes
 permalink: /recipes/
 ---
 
-# Recipes
-
 <ul>
 {% assign items = site.recipes | sort: "title" %}
 {% for r in items %}

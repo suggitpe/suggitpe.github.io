@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-Welcome — I’m **suggitpe**. I build things, break them (on purpose), and write about what I learn.
+Welcome — I’m **Pete**. I build things, break them (on purpose), and write about what I learn.
 
 ### Latest Blog Posts
 <ul>

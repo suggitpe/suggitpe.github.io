@@ -3,17 +3,15 @@ description: "Notes, projects, and passing curiosities."
 url: "https://suggitpe.github.io"
 baseurl: ""                 # empty for user/organization sites
 
-remote_theme: fongandrew/hydeout
+remote_theme: poole/hyde
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
-# Helps GitHub metadata links in the sidebar
 repository: suggitpe/suggitpe.github.io
 
-# Your sections
 collections:
   presentations:
     output: true

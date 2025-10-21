@@ -2,6 +2,7 @@
 layout: page
 title: Home
 permalink: /
+nav_exclude: true
 ---
 
 Welcome — I’m **Pete**. I build things, break them (on purpose), and write about what I learn.

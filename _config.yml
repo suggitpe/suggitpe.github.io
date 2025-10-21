@@ -3,7 +3,6 @@ description: "Notes, projects, and passing curiosities."
 url: "https://suggitpe.github.io"
 author: "suggitpe"
 
-# Use Hyde directly from GitHub with the remote theme mechanism
 remote_theme: poole/hyde
 
 plugins:
@@ -11,7 +10,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Your existing collections & permalinks can stay
 collections:
   presentations:
     output: true
@@ -19,4 +17,5 @@ collections:
   recipes:
     output: true
     permalink: /recipes/:name/
+
 permalink: /blog/:year/:month/:day/:title/

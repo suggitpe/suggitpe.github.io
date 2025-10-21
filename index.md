@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Home
 permalink: /
 ---
@@ -34,8 +34,8 @@ Welcome! Here’s a quick snapshot.
 ### New Recipes
 {% assign latest_recipes = site.recipes | sort: "title" | slice: 0, 3 %}
 <ul>
-  {% for recipe in latest_recipes %}
-    <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+  {% for r in latest_recipes %}
+    <li><a href="{{ r.url | relative_url }}">{{ r.title }}</a></li>
   {% endfor %}
 </ul>
 <p><a href="{{ '/recipes/' | relative_url }}">All recipes →</a></p>

@@ -1,7 +1,7 @@
 title: "suggitpe"
 description: "Notes, projects, and passing curiosities."
-url: "https://suggitpe.github.io"   # full URL to your site
-baseurl: ""                          # IMPORTANT: empty for user/organization sites
+url: "https://suggitpe.github.io"
+baseurl: ""                 # empty for user/organization sites
 
 remote_theme: poole/hyde
 
@@ -10,6 +10,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Helps GitHub metadata links in the sidebar
+repository: suggitpe/suggitpe.github.io
+
+# Your sections
 collections:
   presentations:
     output: true

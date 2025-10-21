@@ -1,7 +1,7 @@
 title: "suggitpe"
 description: "Notes, projects, and passing curiosities."
-url: "https://suggitpe.github.io"
-author: "suggitpe"
+url: "https://suggitpe.github.io"   # full URL to your site
+baseurl: ""                          # IMPORTANT: empty for user/organization sites
 
 remote_theme: poole/hyde
 
@@ -19,3 +19,6 @@ collections:
     permalink: /recipes/:name/
 
 permalink: /blog/:year/:month/:day/:title/
+markdown: kramdown
+kramdown:
+  input: GFM

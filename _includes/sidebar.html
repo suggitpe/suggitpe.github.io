@@ -1,0 +1,20 @@
+<div class="sidebar">
+    <div class="container sidebar-sticky">
+        <div class="sidebar-about">
+            <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+            <p class="lead">{{ site.description }}</p>
+        </div>
+
+        <nav class="sidebar-nav">
+            {%- assign pages_for_nav = site.pages | where: "layout", "page" -%}
+            {%- for p in pages_for_nav -%}
+            {%- if p.title and p.url != '/' -%}  <!-- exclude Home -->
+            <a class="sidebar-nav-item{% if page.url == p.url %} active{% endif %}"
+               href="{{ p.url | relative_url }}">{{ p.title }}</a>
+            {%- endif -%}
+            {%- endfor -%}
+        </nav>
+
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</p>
+    </div>
+</div>

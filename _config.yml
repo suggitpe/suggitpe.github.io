@@ -4,7 +4,7 @@ url: "https://suggitpe.github.io"
 author: "suggitpe"
 
 # Use the official Midnight theme via remote_theme
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 
 plugins:
   - jekyll-remote-theme

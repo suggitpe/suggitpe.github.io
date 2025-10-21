@@ -1,6 +1,6 @@
 ---
 title: Pineapple Chicken
-layout: default
+layout: page
 ---
 
 ## The basics

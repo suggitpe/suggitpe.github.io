@@ -3,15 +3,15 @@ description: "Notes, projects, and passing curiosities."
 url: "https://suggitpe.github.io"
 author: "suggitpe"
 
-# Use the official Midnight theme via remote_theme
-remote_theme: pages-themes/slate@v0.2.0
+# Use Hyde directly from GitHub with the remote theme mechanism
+remote_theme: poole/hyde
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
-# Collections for Presentations & Recipes
+# Your existing collections & permalinks can stay
 collections:
   presentations:
     output: true
@@ -19,16 +19,4 @@ collections:
   recipes:
     output: true
     permalink: /recipes/:name/
-
-# Keep your blog permalink style
 permalink: /blog/:year/:month/:day/:title/
-
-markdown: kramdown
-kramdown:
-  input: GFM
-
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - _site

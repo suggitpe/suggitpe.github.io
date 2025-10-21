@@ -4,22 +4,19 @@ title: Home
 permalink: /
 ---
 
-Welcome! Here’s a quick snapshot.
+Welcome — I’m **suggitpe**. I build things, break them (on purpose), and write about what I learn.
 
 ### Latest Blog Posts
 <ul>
 {% for post in site.posts limit:3 %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    — {{ post.date | date: "%b %d, %Y" }}
-  </li>
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%b %d, %Y" }}</li>
 {% endfor %}
 </ul>
 [All posts →]({{ '/blog/' | relative_url }})
 
-### Recent Presentations
+### Recent Presenting
 <ul>
-{% assign talks = site.presentations | sort: "date" | reverse | slice: 0, 3 %}
+{% assign talks = site.presenting | sort: "date" | reverse | slice: 0, 3 %}
 {% for talk in talks %}
   <li>
     <a href="{{ talk.url | relative_url }}">{{ talk.title }}</a>
@@ -28,12 +25,12 @@ Welcome! Here’s a quick snapshot.
   </li>
 {% endfor %}
 </ul>
-[All presentations →]({{ '/presentations/' | relative_url }})
+[All talks →]({{ '/presenting/' | relative_url }})
 
 ### New Recipes
 <ul>
-{% assign recipes = site.recipes | sort: "title" | slice: 0, 3 %}
-{% for r in recipes %}
+{% assign rs = site.recipes | sort: "title" | slice: 0, 3 %}
+{% for r in rs %}
   <li><a href="{{ r.url | relative_url }}">{{ r.title }}</a></li>
 {% endfor %}
 </ul>

@@ -1,0 +1,35 @@
+title: "suggitpe"
+description: "Notes, projects, and passing curiosities."
+url: "https://suggitpe.github.io"
+author: "suggitpe"
+
+# Keep Hyde layouts/templates via remote_theme
+remote_theme: poole/hyde
+
+# Needed for remote_theme + extras
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections (renamed to presenting as requested)
+collections:
+  presenting:
+    output: true
+    permalink: /presenting/:name/
+  recipes:
+    output: true
+    permalink: /recipes/:name/
+
+# Blog post URLs
+permalink: /blog/:year/:month/:day/:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _site

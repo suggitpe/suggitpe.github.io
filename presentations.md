@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Presentations
 permalink: /presentations/
 ---
 
-A collection of talks and slide decks.
+# Presentations
 
 <ul>
 {% assign talks = site.presentations | sort: "date" | reverse %}

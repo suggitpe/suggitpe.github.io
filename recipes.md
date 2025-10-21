@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Recipes
 permalink: /recipes/
 ---
 
-Things I like to cook (or drink).
+# Recipes
 
 <ul>
 {% assign items = site.recipes | sort: "title" %}

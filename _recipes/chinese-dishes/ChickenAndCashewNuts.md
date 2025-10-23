@@ -1,5 +1,7 @@
-# Chicken and Cashew Nuts
-
+---
+title: Chicken and Cashew Nuts
+layout: page
+---
 ## Ingredients
 
 ### Stir Fry

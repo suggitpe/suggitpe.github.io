@@ -1,4 +1,7 @@
-# Tomato and Rice Soup
+---
+title: Tomato and Rice Soup
+layout: page
+---
 
 ## Ingredients
 

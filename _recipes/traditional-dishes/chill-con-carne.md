@@ -6,6 +6,8 @@ date: 2020-01-01
 
 For this dish, I tend to make a huge batch of it and freeze it in portions for quick meals during the week.  I like it spicy so if you are not so keen, then reduce the spicy parts.  My wife does not like it too spicy so she adds soured cream to the dish to cool it all down a little.
 
+----
+
 ## Ingredients
  * 3 Red onions
  * Half a clove of garlic
@@ -25,6 +27,8 @@ For this dish, I tend to make a huge batch of it and freeze it in portions for q
  * Fresh coriander to serve
  * (optional) soured cream
  * Green lentils
+
+----
 
 ## The cook
 For me its all about the preparation.  I tend to get two pasta bowls and into them put the following:

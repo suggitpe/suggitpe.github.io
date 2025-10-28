@@ -23,6 +23,7 @@ For this dish, I tend to make a huge batch of it and freeze it in portions for q
  * 5 or 6 chunks of dark chocolate (the darker the better)
  * Fresh coriander to serve
  * (optional) soured cream
+ * Green lentils
 
 ## The cook
 For me its all about the preparation.  I tend to get two pasta bowls and into them put the following:

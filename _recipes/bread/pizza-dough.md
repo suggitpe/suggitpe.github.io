@@ -3,9 +3,6 @@ title: Pizza Dough
 layout: default
 ---
 
-* auto-gen TOC:
-{:toc}
-
 ---
 
 ## The basics
@@ -14,6 +11,8 @@ Something for the kids!!! This pizza dough recipe is super simple to make, espec
 This version of the dough is done trying to make as little mess as possible ... I'm lazy!
 
 > If you find the dough does not rise, this is most likely caused by dead yeast.  Replace the yeast and start again.
+
+---
 
 ## Ingredients
 * 100g Semolina
@@ -34,6 +33,8 @@ This version of the dough is done trying to make as little mess as possible ... 
 * Pizza Stone or Tray for the oven
     * I use the non stick pizza trays from Lakeland
 
+---
+
 ## How to make the dough
 1. Get a big mixing bowl and drop in the flour and semolina
 1. Add salt and pepper (plus chilli flakes if you like it spicy)
@@ -48,8 +49,15 @@ This version of the dough is done trying to make as little mess as possible ... 
 1. Once the dough is silky put it in a freezer bag and pop it in the fridge knocking it back once in a while
 1. Keep it in the freezer bag as its a sticky dough
 
+---
+
 ## Making the pizza base
-On a work surface (I have a big wooden chopping board) spread a load of semolina and flour.  You will need quite a bit to stop it sticking.  Flatten a ball of dough and then use a rolling pin to thin the ball into a pizza base shape.  I have yet to achieve the dizzying heights of spinning the dough in the air.
+* On a work surface (I have a big wooden chopping board) spread a load of semolina and flour.
+* You will need quite a bit to stop it sticking.  
+* Flatten a ball of dough and then use a rolling pin to thin the ball into a pizza base shape.
+* I have yet to achieve the dizzying heights of spinning the dough in the air.
+
+---
 
 ## Toppings
 Now add on the pasatta and toppings etc.  Try the following:
@@ -59,5 +67,9 @@ Now add on the pasatta and toppings etc.  Try the following:
  - Mix Mozzarella and Cheddar
  - Sprinkle mixed herbs over the top before you bake
 
+---
+
 ## Links
 * Read [Paul Hollywood's](http://paulhollywood.com/baking-know-how/techniques/) tips on making bread
+
+---

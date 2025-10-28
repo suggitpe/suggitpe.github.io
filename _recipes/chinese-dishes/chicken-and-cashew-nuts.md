@@ -2,6 +2,9 @@
 title: Chicken and Cashew Nuts
 layout: page
 ---
+
+---
+
 ## Ingredients
 
 ### Stir Fry
@@ -32,6 +35,8 @@ layout: page
 - 1 tbsp sesame oil
 - 1 tbsp siracha sauce (to taste)
 
+---
+
 ## Method
 
 - Roast cashew nuts at 200c for 10 mins … need them crunchy
@@ -43,3 +48,5 @@ layout: page
 - Add in the sauce and let it reduce until it starts to be sticky.
 - In final minute: add the chopped top of spring onions, roasted cashew nuts.
 - Serve with jasmine rice and a good dose of coriander (option to add sliced chili on the top for those that like a bit more heat)
+
+---

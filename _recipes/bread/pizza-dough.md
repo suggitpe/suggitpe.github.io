@@ -1,6 +1,6 @@
 ---
 title: Pizza Dough
-layout: default
+layout: page
 ---
 
 ---

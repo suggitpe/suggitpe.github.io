@@ -10,25 +10,25 @@ For this dish, I tend to make a huge batch of it and freeze it in portions for q
 ---
 
 ## Ingredients
- * 3 Red onions
- * Half a clove of garlic
- * 3 sweet red peppers
- * 5 Whole chilies (red)
- * 3 heaped teaspoons of hot chili powder
- * 3 heaped teaspoons of paprika
- * 3 heaped teaspoons of cumin
- * 2Kg of lean mince
- * 3 beef stock cubes mixed with 1lt of boiling water
- * 3 cans of chopped tomatoes
- * 3 cans of red kidney beans
- * 1/3 of a tube of tomato puree
- * a good glug of ruby port
- * Tabasco sauce (I use about 10 shakes of the bottle)
- * 5 or 6 chunks of dark chocolate (the darker the better)
- * Fresh coriander to serve
- * (optional) soured cream
- * Green lentils
-
+  * 3 Red onions
+  * Half a clove of garlic
+  * 3 sweet red peppers
+  * 5 Whole chilies (red)
+  * 3 heaped teaspoons of hot chili powder
+  * 3 heaped teaspoons of paprika
+  * 3 heaped teaspoons of cumin
+  * 2Kg of lean mince
+  * 3 beef stock cubes mixed with 1lt of boiling water
+  * 3 cans of chopped tomatoes
+  * 3 cans of red kidney beans
+  * Tinned Green lentils
+  * 1/3 of a tube of tomato puree
+  * a good glug of ruby port
+  * Tabasco sauce (I use about 10 shakes of the bottle)
+  * 5 or 6 chunks of dark chocolate (the darker the better)
+  * Fresh coriander to serve
+  * (optional) soured cream
+ 
 ---
 
 ## The cook

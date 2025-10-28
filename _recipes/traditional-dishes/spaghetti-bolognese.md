@@ -1,6 +1,7 @@
 ---
 title: Spaghetti Bolognese
 layout: page
+date: 2020-01-01
 ---
 
 This recipe is my family's favourite of all the recipes that I make.  I make a huge batch every month or so and then freeze it as shareable portions in freezer bags.  On busy days we defrost and it makes dinner a simple affair either on a baked potato or over pasta.  Our babysitter also gets a portion (on date nights)!  Try this as the meat in a lasagne too.

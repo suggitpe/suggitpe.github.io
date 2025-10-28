@@ -1,6 +1,7 @@
 ---
 title: Chili con Carne
 layout: page
+date: 2020-01-01
 ---
 
 For this dish, I tend to make a huge batch of it and freeze it in portions for quick meals during the week.  I like it spicy so if you are not so keen, then reduce the spicy parts.  My wife does not like it too spicy so she adds soured cream to the dish to cool it all down a little.

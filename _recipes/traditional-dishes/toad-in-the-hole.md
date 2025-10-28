@@ -1,6 +1,7 @@
 ---
 title: Toad in the Hole
-layout: default
+layout: page
+date: 2020-01-01
 ---
 
 

@@ -36,7 +36,12 @@ For me its all about the preparation.  I tend to get two pasta bowls and into th
   1. Chop the red peppers and the chili; then on top of them add the chili powder, paprika and cumin
   1. Brown off the mince and drain away all the fatty liquid (we want to keep the dish as lean as possible)
 
-Start with a large pot with some oil in the bottom of it and heat it up.  Once hot, add in the onion/garlic bowl and cook until the onions have gone soft.  Now add in the pepper/chili/spice bowl and allow the spices to cook off for a little while.  If it starts to burn, add a little of the stock.  Now add in the cooked mince, the stock, the tomatoes, the tomato puree, the port and the Tabasco and let this simmer for between 30 mins and an hour with the lid off (we want this to reduce).  Now add in the kidney beans and cook for a further 30 mins.
+* Start with a large pot with some oil in the bottom of it and heat it up.
+* Once hot, add in the onion/garlic bowl and cook until the onions have gone soft.
+* Now add in the pepper/chili/spice bowl and allow the spices to cook off for a little while.
+* If it starts to burn, add a little of the stock.
+* Now add in the cooked mince, the stock, the tomatoes, the tomato puree, the port and the Tabasco and let this simmer for between 30 mins and an hour with the lid off (we want this to reduce).
+* Now add in the kidney beans and lentils and cook for a further 30 mins.
 
 Serve this with white and wild rice with the coriander spinkled over the top.
 

@@ -3,9 +3,6 @@ title: Tips and Tricks
 layout: default
 ---
 
-* auto-gen TOC:
-{:toc}
-
 ---
 
 ## <a name="dice_onion"></a>Dicing an onion

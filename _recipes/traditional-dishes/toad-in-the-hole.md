@@ -1,12 +1,11 @@
 ---
 title: Toad in the Hole
 layout: page
-date: 2020-01-01
 ---
 
-
-
 A great meal for an autumnal evening.  Best served with a seriously Porty onion gravy and garden peas!  Rather unhelpfully I never use any measures for the Yorkshire Pudding batter as I tend to do it by feel.
+
+---
 
 ## Ingredients
  - Thick sausages from the butcher
@@ -26,8 +25,7 @@ A great meal for an autumnal evening.  Best served with a seriously Porty onion 
  - Ruby Port
  - Bisto
 
-## Utensils
- - a hand held blender.  This is a must have for anyone wanting to make good Yorkshire Puddings as it aerates the mix and helps the flour mix in.
+---
 
 ## How to make the Yorkshire Pudding batter
 1. Put the flour, osemary salt and pepper in a decent sized measuring jug
@@ -52,3 +50,5 @@ A great meal for an autumnal evening.  Best served with a seriously Porty onion 
 1. If you can be bothered make fresh gravy do so: I just use Bisto as its good enough
 1. Add a good dose of port to your taste ... i add a layout
 1. Reduce so you burn off the alcohol and thicken to a gloopy gravy
+
+---

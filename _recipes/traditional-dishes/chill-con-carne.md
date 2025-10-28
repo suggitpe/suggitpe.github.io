@@ -1,12 +1,11 @@
 ---
 title: Chili con Carne
 layout: page
-date: 2020-01-01
 ---
 
 For this dish, I tend to make a huge batch of it and freeze it in portions for quick meals during the week.  I like it spicy so if you are not so keen, then reduce the spicy parts.  My wife does not like it too spicy so she adds soured cream to the dish to cool it all down a little.
 
-----
+---
 
 ## Ingredients
  * 3 Red onions
@@ -28,7 +27,7 @@ For this dish, I tend to make a huge batch of it and freeze it in portions for q
  * (optional) soured cream
  * Green lentils
 
-----
+---
 
 ## The cook
 For me its all about the preparation.  I tend to get two pasta bowls and into them put the following:
@@ -40,3 +39,5 @@ For me its all about the preparation.  I tend to get two pasta bowls and into th
 Start with a large pot with some oil in the bottom of it and heat it up.  Once hot, add in the onion/garlic bowl and cook until the onions have gone soft.  Now add in the pepper/chili/spice bowl and allow the spices to cook off for a little while.  If it starts to burn, add a little of the stock.  Now add in the cooked mince, the stock, the tomatoes, the tomato puree, the port and the Tabasco and let this simmer for between 30 mins and an hour with the lid off (we want this to reduce).  Now add in the kidney beans and cook for a further 30 mins.
 
 Serve this with white and wild rice with the coriander spinkled over the top.
+
+---

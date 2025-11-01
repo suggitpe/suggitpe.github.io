@@ -23,10 +23,12 @@ You can prepare this early then leave in the fridge to to the final cook later.
 * 5-6 mushrooms
 * Tomato Puree
 * Tin of chopped tomatoes
-* handful of cherry tomatoes
-* 300ml chicken stock
-* 250g white potatoes pealed
+* Handful of cherry tomatoes
+* 500ml chicken stock
+* 5 medium white potatoes pealed and sliced
 * Optionally add in a can of cannellini or black beans.
+
+---
 
 ## Method
 * Prepare all the slicing and dicing ahead of the cook.
@@ -43,5 +45,12 @@ You can prepare this early then leave in the fridge to to the final cook later.
 * Add back bacon and the sausages.
 * Slice  potatoes thickly and layer on the top of the sausages and sauce
 * Add butter to the top of the potatoes with some herbs
-* Cook in an oven at 180 for 60 mins
+* Cook in an oven at 185 for 30 mins with li on then 30 mins with lid off
 * Pop under the grill to finalise with worcester sauce
+
+---
+
+## Things to consider
+* Add beans (black beans) or split lentils
+* Cook things in a wak pan and add to a casserole pot for the cook
+* Add in some chorizo

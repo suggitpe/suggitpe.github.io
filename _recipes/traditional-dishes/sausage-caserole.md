@@ -5,7 +5,7 @@ layout: page
 
 ----
 
-You can prepare this early then leave in the fridge to to the final cook later.
+You can prepare this early then leave in the fridge to to the final cook later.  Serve this with fresh cooked bread or green vegetables.
 
 ----
 

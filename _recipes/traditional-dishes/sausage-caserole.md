@@ -3,11 +3,11 @@ title: Sausage Hot Pot
 layout: page
 ---
 
----
+----
 
 You can prepare this early then leave in the fridge to to the final cook later.
 
----
+----
 
 ## Ingredients
 * 8-10 Good sausages from the butcher
@@ -28,7 +28,7 @@ You can prepare this early then leave in the fridge to to the final cook later.
 * 5 medium white potatoes pealed and sliced
 * Optionally add in a can of cannellini or black beans.
 
----
+----
 
 ## Method
 * Prepare all the slicing and dicing ahead of the cook.
@@ -48,7 +48,7 @@ You can prepare this early then leave in the fridge to to the final cook later.
 * Cook in an oven at 185 for 30 mins with li on then 30 mins with lid off
 * Pop under the grill to finalise with worcester sauce
 
----
+----
 
 ## Things to consider
 * Add beans (black beans) or split lentils

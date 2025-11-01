@@ -54,3 +54,4 @@ You can prepare this early then leave in the fridge to to the final cook later.
 * Add beans (black beans) or split lentils
 * Cook things in a wak pan and add to a casserole pot for the cook
 * Add in some chorizo
+* Add cheese to the top ... Gruyere, Emmental or Cheddar

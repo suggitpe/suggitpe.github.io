@@ -4,11 +4,10 @@ layout: page
 ---
 
 ---
-
 Feeds three children or two adults
 
+---
 ## Ingredients
-
 - 1 x Chicken breast
 - Soy Sauce
 - Onion Granules
@@ -26,8 +25,8 @@ Feeds three children or two adults
 - 2-3 Spring Onions
 - Sesame seeds
 
+---
 ## Method
-
 - Pop a bowl into a warming draw or really low oven as you will put parts to the side in the cook.
 - Slice chicken in to long thin strips and marinade chicken in a mix of soy sauce, onion granules, sesame oil. I tend to put into a freezer bag and leave in the fridge
 - Chop up the spring onions separating out the green tops from the white bottoms.
@@ -42,3 +41,5 @@ Feeds three children or two adults
 - I tend to add a bit more soy sauce.
 
 Note the classic recipe is three meats and three vegetables, so there is an option to swap the chicken for any leftover meat.
+
+---

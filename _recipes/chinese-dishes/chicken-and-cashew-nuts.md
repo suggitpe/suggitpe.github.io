@@ -4,11 +4,9 @@ layout: page
 ---
 
 ---
-
 ## Ingredients
 
 ### Stir Fry
-
 - Chicken (500g pack)
 - Paprika
 - 1 tbsp flour
@@ -26,7 +24,6 @@ layout: page
 - Sesame seeds
 
 ### Sauce
-
 - 1 tbsp Hoisin
 - 1 tbsp Soy sauce
 - ½ tbsp fish sauce
@@ -36,9 +33,7 @@ layout: page
 - 1 tbsp siracha sauce (to taste)
 
 ---
-
 ## Method
-
 - Roast cashew nuts at 200c for 10 mins … need them crunchy
 - Prepare the chicken into dices, and marinade for at least a hour with soy sauce (light and dark). I put into freezer bag and leave overnight in fridge.
 - Make the sauce in a cup: soy sauce, sesame oil, sugar, Shaoxing Wine, Fish Sauce, Hoisin.

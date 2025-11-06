@@ -4,14 +4,11 @@ layout: page
 ---
 
 ---
-
 ## The basics
 This dish is ... work in progress
 
 ---
-
 ## The Ingredients
-
  * One chicken breast diced into small chunks
  * Small can of pineapple chunks
  * The chicken coating:
@@ -34,7 +31,6 @@ This dish is ... work in progress
     * 2 teaspoons cornflour
 
 ---
-
 ## The cook
 1. Mix all the chicken coating into a freezer bag.
 1. Take the chicken and soak it in the egg wash for a moment.

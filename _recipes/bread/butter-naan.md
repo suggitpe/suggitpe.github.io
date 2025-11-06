@@ -4,9 +4,7 @@ layout: page
 ---
 
 ---
-
 ## Ingredients
-
 - 300g strong white bread flour
 - 2 tsps dried yeast
 - 150g natural yoghurt
@@ -18,9 +16,7 @@ layout: page
 - 1 tbls nigella seeds
 
 ---
-
 ## Method
-
 - Mix water, yeast and sugar into a jug … leave until frothy then add the yoghurt and mix up.
 - Add flour, nigella seeds, baking powder and salt into the bowl and hollow out the centre.
 - Add the butter, yoghurt and yeast mix to the centre of the flour/bowl

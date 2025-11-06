@@ -4,7 +4,6 @@ layout: page
 ---
 
 ---
-
 ## The basics
 Something for the kids!!! This pizza dough recipe is super simple to make, especially if you have a food mixer. This recipe is best made the day before you want to use it.
 
@@ -13,7 +12,6 @@ This version of the dough is done trying to make as little mess as possible ... 
 > If you find the dough does not rise, this is most likely caused by dead yeast.  Replace the yeast and start again.
 
 ---
-
 ## Ingredients
 * 100g Semolina
 * 500g Strong Bread Flour
@@ -26,6 +24,7 @@ This version of the dough is done trying to make as little mess as possible ... 
 * A sprig of rosemary chopped up finely
 * A few decent glugs of Virgin Olive Oil
 
+---
 ## Utensils
 * Food mixer with a dough hook is best
     * Or manually kneed the dough and bust those 'bingo wings'
@@ -34,7 +33,6 @@ This version of the dough is done trying to make as little mess as possible ... 
     * I use the non stick pizza trays from Lakeland
 
 ---
-
 ## How to make the dough
 1. Get a big mixing bowl and drop in the flour and semolina
 1. Add salt and pepper (plus chilli flakes if you like it spicy)
@@ -50,7 +48,6 @@ This version of the dough is done trying to make as little mess as possible ... 
 1. Keep it in the freezer bag as its a sticky dough
 
 ---
-
 ## Making the pizza base
 * On a work surface (I have a big wooden chopping board) spread a load of semolina and flour.
 * You will need quite a bit to stop it sticking.  
@@ -58,7 +55,6 @@ This version of the dough is done trying to make as little mess as possible ... 
 * I have yet to achieve the dizzying heights of spinning the dough in the air.
 
 ---
-
 ## Toppings
 Now add on the pasatta and toppings etc.  Try the following:
 
@@ -68,7 +64,6 @@ Now add on the pasatta and toppings etc.  Try the following:
  - Sprinkle mixed herbs over the top before you bake
 
 ---
-
 ## Links
 * Read [Paul Hollywood's](http://paulhollywood.com/baking-know-how/techniques/) tips on making bread
 

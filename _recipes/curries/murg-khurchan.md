@@ -4,15 +4,14 @@ layout: page
 ---
 
 ---
-
 During my stay at the Oberoi Hotel in Gurgaon, Northern India, I discovered the delightful Murg Khurchan. Initially, I ordered the Chicken Tikka, but the waiter recommended trying the Murg Khurchan, and it turned out to be the best curry I've ever tasted. This recipe is inspired by Marut Sikka's version, which seems to be the most authentic.
 
 Marut Sikka has been acclaimed by India's leading food critics as the only individual in this century to have done the most to revive and nurture the traditions of North Indian cooking.
 
+---
 ## Ingredients
 
 ### Chicken (marinade)
-
 - Pack of 500g chicken breasts
 - 8 cloves garlic grated
 - Large piece of ginger (size of thumb)
@@ -23,13 +22,11 @@ Marut Sikka has been acclaimed by India's leading food critics as the only indiv
 - 2 tsps olive oil
 
 ### Masala
-
 - 4 dried chilies
 - 1 tsp coriander seeds
 - ½ tsp cumin seeds
 
 ### Sauce
-
 - Good knob butter/ghee
 - 8 cloves garlic (grated)
 - 7 large salad tomatoes (chopped)
@@ -37,7 +34,6 @@ Marut Sikka has been acclaimed by India's leading food critics as the only indiv
 - Tomato Pure
 
 ### Assembly
-
 - 50 gm butter
 - 2 onions sliced
 - 1 green bell pepper (cut into strips)
@@ -47,8 +43,8 @@ Marut Sikka has been acclaimed by India's leading food critics as the only indiv
 - 1 tbsp dried fenugreek leaves (roasted and crushed)
 - Fresh coriander (chopped)
 
+---
 ## Method
-
 - **Marinade** the chicken
     - Slice (against the grain) the chicken and add to a bowl
     - Add in the ginger (grated), juice of one lemon, chili powder, pepper salt and oil.
@@ -68,9 +64,11 @@ Marut Sikka has been acclaimed by India's leading food critics as the only indiv
     - Add fenugreek leaves and cook for another 1-2 minutes
     - Serve with fresh coriander.
 
+---
 ## Links
-
 - <https://www.hindustantimes.com/india/rude-food-scrape-it-up/story-uEoytQAWTTPclKE1wMXEHL.html>
 - <https://www.cult.fit/live/recipe/murg-khurchan/RECIPE415>
 - <https://www.sanjeevkapoor.com/Recipe/Chicken-Khurchan-.html>
 - <https://triedandtestedhere.blogspot.com/2015/05/murg-khurchan.html>
+
+---

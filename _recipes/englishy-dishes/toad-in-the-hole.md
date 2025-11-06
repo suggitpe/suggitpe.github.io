@@ -4,11 +4,9 @@ layout: page
 ---
 
 ---
-
 A great meal for an autumnal evening.  Best served with a seriously Porty onion gravy and garden peas!  Rather unhelpfully I never use any measures for the Yorkshire Pudding batter as I tend to do it by feel.
 
 ---
-
 ## Ingredients
  - Thick sausages from the butcher
  - Tabasco sauce
@@ -28,7 +26,6 @@ A great meal for an autumnal evening.  Best served with a seriously Porty onion 
  - Bisto
 
 ---
-
 ## How to make the Yorkshire Pudding batter
 1. Put the flour, osemary salt and pepper in a decent sized measuring jug
 1. Crack the eggs in to the flour mix and with a fork beat the eggs into the flour.  It should end up in a stodgy mix with the flour and eggs well mixed.

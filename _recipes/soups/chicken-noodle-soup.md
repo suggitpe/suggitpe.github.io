@@ -4,13 +4,10 @@ layout: page
 ---
 
 ---
-
 Serves 4
 
 ---
-
 ## Ingredients
-
 - 1 litre good-quality chicken stock
 - Half garlic bulb, sliced
 - Good-sized thumb of fresh ginger, peeled and sliced thinly
@@ -27,9 +24,7 @@ Serves 4
 - chilli or sesame oil (optional)
 
 ---
-
 ## Instructions
-
 - Pour the chicken stock into a pan and add 400ml water. Add the garlic, lemon grass and ginger to the stock. Slice up the spring onion bulbs, lightly fry them until caramelised and add. Set the pan over a very low heat for 5 minutes to gently simmer and to allow the garlic and ginger to infuse. Can leave this for longer, its not going to hurt.
 - Season well with pepper. Can add chili flakes at this point too if feeling keen. Care with salt as the stock will have a lot.
 - Add sliced mushrooms at this point …

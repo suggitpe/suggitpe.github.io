@@ -8,7 +8,6 @@ layout: page
 This recipe is my family's favourite of all the recipes that I make.  I make a huge batch every month or so and then freeze it as shareable portions in freezer bags.  On busy days we defrost and it makes dinner a simple affair either on a baked potato or over pasta.  Our babysitter also gets a portion (on date nights)!  Try this as the meat in a lasagne too.
 
 ---
-
 ## Ingredients
  - 2Kg of the leanest minced beef you can find (5%)
  - 2 big [onions diced finely](tips.html#dice_onion)
@@ -26,7 +25,6 @@ This recipe is my family's favourite of all the recipes that I make.  I make a h
  - a good dash of Worcestershire Sauce
 
 ---
-
 ## The cook
 1. Start by cooking the mince in a deep frying pan with a little oil.  We want to get the meat brown and the fat cooked off.  Drain the fat away so you are left with the lean cooked meat.  Put the cooked mince to one side as you will add to the bolognese in a moment.
 1. I tend to prepare onions, garlic, mushrooms ahead of the cook as it cooks quicker than I can prepare.

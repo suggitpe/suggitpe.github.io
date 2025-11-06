@@ -4,9 +4,7 @@ layout: page
 ---
 
 ---
-
 ## Ingredients
-
 - Chicken (~0.5Kg)
 - 2 large red onions
 - 3 Tomatoes
@@ -29,8 +27,8 @@ layout: page
 - Garam Masala … 1-2 t/spoon
 - Sunflower Oil
 
+---
 ## Method
-
 - Marinade chicken with garam masala and a small amount of oil to then brown off the chicken
 - Slice the onions, dice the tomatoes, ginger, garlic and chillies
 - Heat the oil and add cumin (keep the heat medium as it burns rather quick)
@@ -47,3 +45,5 @@ layout: page
 - Garnish with some coriander leaves and voila… 😉 Enjoy Kadhai Paneer… Preferably with a butter naan…
 
 If you want to add a little more authentic flavours then these are a few items that get added at the start when you add cumin. Each adds a tone into the food but depending on what you have you can play around. You can cook with neither added, all added or some added, play around with it as it would add a different flavour to your dish every time based on what you add.
+
+---

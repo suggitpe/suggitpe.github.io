@@ -4,9 +4,7 @@ layout: page
 ---
 
 ---
-
 ## Ingredients
-
 - 1 large or two medium onions
 - 1 Spanish Sweet Red Pepper (or three mini ones)
 - Chilli or a good pinch of Kashmiri Chili flakes
@@ -26,8 +24,8 @@ layout: page
 - Salt and pepper
 - Tzatziki: yogurt with cucumber and lemon juice as a side / spread
 
+---
 ## Method
-
 - Marinade the chicken with three tablespoons of yoghurt (plus Garam Masala, salt a loads of black pepper) at least for 2 hours … make sure its well mixed and has time to soak into the chicken
 - Roast the Mustard Seeds in a dry pan until toasted … then put aside to cool off
 - Good knob of butter in a pan and fry off onions and red pepper

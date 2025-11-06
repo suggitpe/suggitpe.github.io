@@ -19,7 +19,7 @@ collections:
     permalink: /presenting/:name/
   recipes:
     output: true
-    permalink: /recipes/:name/
+    permalink: /recipes/:path/
 
 # Blog post URLs
 permalink: /blog/:year/:month/:day/:title/

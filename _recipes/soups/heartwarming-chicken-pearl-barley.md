@@ -3,6 +3,9 @@ title: Heartwarming Chicken and Pearl Barley Soup
 layout: page
 ---
 
+Originally sourced from a Covent Garden soup this is the highly modified version that my kids put in high demand.  Fresh flavours and ridiculously filling.  This is perfect to have after a long winter dog-walk when your face is stinging, and you yearn for an aga to lean on.
+
+----
 ## Ingredients
 * 5 Maris Piper potatoes
 * 2 decent diced onions

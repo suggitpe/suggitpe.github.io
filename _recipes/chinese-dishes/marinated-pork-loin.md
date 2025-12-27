@@ -15,7 +15,7 @@ In a decent sized measuring jug add the following.  You want to get a sticky sau
   * 1/2 Tablespoon of Rice Wine
   * 1 Teaspoon of Sesame Oil
   * 3 Tablespoons of soft brown sugar
-  * 2 Cloves of garlic chopped
+  * 4-6 Cloves of garlic chopped
   * Pepper
   * Pinch of Chinese 5 spice
   * A few drops of Tabasco Sauce
@@ -27,7 +27,7 @@ Trim as much of the fat off the meat as you can without being silly.  On the top
 ---
 ## The cook
 1. On a roasting tray for 40 minutes at 180c.  
-1. If you let the drippings hit the metal of the pan it will turn to charcoal so put put some water underneath the pork, this will make a good sauce on the pork.
+1. If you let the drippings hit the metal of the pan it will turn to charcoal so put some water underneath the pork, this will make a good sauce on the pork.
 1. For the final part of the cook, baste the pork with a honey glaze (honey and hot water in a 2:1 ratio) and grill it.
 1. Make sure to rest the meat for 10 minutes before you serve.
 

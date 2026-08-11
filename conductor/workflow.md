@@ -26,7 +26,8 @@
 ### Phase 2: Implementation & Human Review
 1. **Mark Task In Progress**: Edit `plan.md` to change `[ ]` to `[~]`.
 2. **Apply Code/File Changes**: Modify target Jekyll files (`_includes/`, `_layouts/`, `_posts/`, `public/css/`, `.md` pages).
-3. **Validate Syntax & Links**: Verify Liquid tag balance (`{% %}` and `{{ }}`), valid HTML markup, and local file links.
+3. **Validate Syntax & Links**: Verify Liquid tag balance ({% raw %}`{% %}` and `{{ }}`{% endraw %}), valid HTML markup, and local file links.
+
 4. **Present Change Set for Human Review**: Present a diff summary, changed file list, and proposed commit message to the user for explicit approval.
 5. **Human-in-the-Loop Confirmation**: Wait for explicit user confirmation before running `git commit`.
 6. **Commit Changes**: Upon explicit confirmation, perform the commit with conventional syntax.

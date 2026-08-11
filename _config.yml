@@ -3,8 +3,8 @@ description: "Notes, projects, and passing curiosities."
 url: "https://suggitpe.github.io"
 author: "suggitpe"
 
-# Keep Hyde layouts/templates via remote_theme with explicit branch ref
-remote_theme: poole/hyde@master
+# Keep Hyde layouts/templates via remote_theme
+remote_theme: poole/hyde
 
 # Needed for remote_theme + extras
 plugins:
@@ -33,5 +33,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _site
-  - conductor
-  - preview.html

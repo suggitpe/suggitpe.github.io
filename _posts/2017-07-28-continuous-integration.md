@@ -1,11 +1,4 @@
----
-layout: post
-title: Continuous Integration
-date: 2017-07-28
----
-
 # Continuous Integration
-
 
 ## The Practice
 

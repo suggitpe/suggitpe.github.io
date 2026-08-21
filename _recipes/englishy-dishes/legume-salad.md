@@ -33,7 +33,7 @@ layout: page
 4. Blanch the peas and soya beans: Drop the 100 grams frozen peas and 100 grams soya beans (edamame), frozen into a pan of boiling water for 2 minutes, then drain and refresh under cold water.
 5. Cook the prawns: Heat 3 tablespoons olive oil in a frying pan over medium-high heat. Add the 2 garlic cloves, crushed and cook for 30 seconds, then add the 300 grams raw peeled prawns and cook for 2-3 minutes per side until pink and just cooked through. Season lightly and set aside to cool slightly.
 6. Combine the base: In a large bowl, combine the cooled couscous, quinoa, and split peas with the 400 grams tinned three bean salad, drained, 200 grams chickpeas, drained and rinsed, blanched peas, soya beans, and 0.5 red onion, finely diced.
-7. Make the dressing: Whisk together the 1 lemon, juiced and zested, 4 tablespoons extra virgin olive oil (for dressing), 1 teaspoons salt, 0.5 teaspoons black pepper, and 0.5 teaspoons chilli flakes (optional) if using.
+7. Make the dressing: Whisk together the 1 lemon, juiced and zested, 4 tablespoons extra virgin olive oil (for dressing), 1 teaspoons salt, 0.5 teaspoons black pepper, and 0.5 teaspoons chilli flakes (optional) if using. Add some mayonnaise to make it more silky.
 8. Toss and finish: Pour the dressing over the salad and toss well. Fold through the warm prawns and 4 tablespoons fresh parsley or mint, chopped. Taste and adjust seasoning, then serve warm or at room temperature.
 
 ---

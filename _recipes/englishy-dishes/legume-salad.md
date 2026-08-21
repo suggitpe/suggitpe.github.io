@@ -5,25 +5,25 @@ layout: page
 
 ---
 ## Ingredients
-• 100 grams couscous
-• 100 grams quinoa
-• 130 milliliters boiling water (for couscous)
-• 250 milliliters vegetable or chicken stock (for quinoa)
-• 300 grams raw peeled prawns or chicken
-• 3 tablespoons olive oil
-• 2 garlic cloves, crushed
-• 400 grams tinned three bean salad, drained
-• 200 grams chickpeas, drained and rinsed
-• 100 grams soya beans (edamame), frozen
-• 100 grams frozen peas
-• 75 grams yellow split peas, dried
-• 1 lemon, juiced and zested
-• 4 tablespoons extra virgin olive oil (for dressing)
-• 4 tablespoons fresh parsley or mint, chopped
-• 1 teaspoons salt
-• 0.5 teaspoons black pepper
-• 0.5 teaspoons chilli flakes (optional)
-• 0.5 red onion, finely diced
+* 100 grams couscous
+* 100 grams quinoa
+* 130 milliliters boiling water (for couscous)
+* 250 milliliters vegetable or chicken stock (for quinoa)
+* 300 grams raw peeled prawns or chicken
+* 3 tablespoons olive oil
+* 2 garlic cloves, crushed
+* 400 grams tinned three bean salad, drained
+* 200 grams chickpeas, drained and rinsed
+* 100 grams soya beans (edamame), frozen
+* 100 grams frozen peas
+* 75 grams yellow split peas, dried
+* 1 lemon, juiced and zested
+* 4 tablespoons extra virgin olive oil (for dressing)
+* 4 tablespoons fresh parsley or mint, chopped
+* 1 teaspoons salt
+* 0.5 teaspoons black pepper
+* 0.5 teaspoons chilli flakes (optional)
+* 0.5 red onion, finely diced
 
 ---
 ## Method

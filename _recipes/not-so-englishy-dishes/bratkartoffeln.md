@@ -14,8 +14,8 @@ layout: page
 
 ---
 ## Method
-- chop up the new potatoes into quarters, par boil them ans saute them.
-- chop up the new potatoes into quarters into a freezer bag with salt paper and cajun seasoning and air fry them
+- chop up the new potatoes into quarters, par boil them and saute them.
+- or ... chop up the new potatoes into quarters into a freezer bag with salt paper and cajun seasoning and air fry them
 - chop up chicken into small pieces and marinade in dark soy for a few hours
 - chop up bacon in to small pieces
 - then fry up chicken, bacon and onion together with sage

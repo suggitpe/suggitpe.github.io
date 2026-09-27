@@ -20,7 +20,7 @@ layout: page
 
 ---
 ## Method
- -  make up the sauce in a cup
+ -  make up the sauce in a cup:
    - 3 teaspoons brown sugar
    - sesame oil
    - gochujang paste

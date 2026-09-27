@@ -8,7 +8,15 @@ layout: page
 - 500g low fat beef mince
 - spring onions
 - red onion
-- 
+- brown sugar
+- sesame oil
+- Gochujang paste
+- Kashmiri chili flakes
+- Sesame seeds
+- Rice vinegar
+- Light and dark soy sauce
+- Red chili
+- Ginger and garlic paste
 
 ---
 ## Method
